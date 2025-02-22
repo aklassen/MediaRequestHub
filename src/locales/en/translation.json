@@ -1,3 +1,22 @@
 {
-    "greeting": "Hello, {{name}}!"
-  }
+  "greeting": "Hello, {{name}}!",
+  "accreditationForm": "Accreditation Form",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "mediaName": "Media Name",
+  "mediaType": "Type of Media",
+  "newspaper": "Newspaper",
+  "webzine": "Webzine",
+  "contentCreator": "Content Creator",
+  "streamer": "Streamer",
+  "mediaLink": "Media Link",
+  "accreditationReason": "Reason for Accreditation",
+  "pastCoverage": "Proof of Previous Coverage",
+  "reachInfo": "Information on Size / Reach / Media Data",
+  "submit": "Submit",
+  "requiredField": "This field is required.",
+  "invalidURL": "Please enter a valid URL.",
+  "captchaRequired": "Please confirm that you are not a robot.",
+  "formSubmitted": "The form has been successfully submitted.",
+  "submissionError": "Error submitting the form. Please try again."
+}

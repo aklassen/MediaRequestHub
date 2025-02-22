@@ -1,20 +1,18 @@
-import { useTranslation } from 'react-i18next';
 import './App.css';
 import './i18n';
-
+import Form from './components/Form/Form';
 
 function App() {
-  const { t } = useTranslation();
-
-  const name : string =  "Welt";
+  const name: string = 'Welt';
 
   console.log(name);
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">
-      {t('greeting', { name })}
-        !</h1>
-    </>
+    <div className="">
+      <Form />
+      <p className="text-center text-gray-500 text-xs">
+        &copy;2025 Reload Festival. All rights reserved.
+      </p>
+    </div>
   );
 }
 

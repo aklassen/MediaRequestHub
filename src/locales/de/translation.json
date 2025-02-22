@@ -1,3 +1,22 @@
 {
-    "greeting": "Hallo, {{name}}!"
-  }
+  "greeting": "Hallo, {{name}}!",
+  "accreditationForm": "Akkreditierungsformular",
+  "firstName": "Vorname",
+  "lastName": "Nachname",
+  "mediaName": "Name des Mediums",
+  "mediaType": "Art des Mediums",
+  "newspaper": "Zeitung",
+  "webzine": "Webzine",
+  "contentCreator": "Content Creator",
+  "streamer": "Streamer",
+  "mediaLink": "Link zum Medium",
+  "accreditationReason": "Grund der Akkreditierung",
+  "pastCoverage": "Nachweis bereits geleisteter Berichterstattung",
+  "reachInfo": "Hinweise zur Größe / Reichweite / Mediadaten",
+  "submit": "Absenden",
+  "requiredField": "Dieses Feld ist erforderlich.",
+  "invalidURL": "Bitte eine gültige URL eingeben.",
+  "captchaRequired": "Bitte bestätigen Sie, dass Sie kein Roboter sind.",
+  "formSubmitted": "Das Formular wurde erfolgreich übermittelt.",
+  "submissionError": "Fehler beim Absenden des Formulars. Bitte versuchen Sie es erneut."
+}
